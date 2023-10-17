@@ -11,7 +11,7 @@ I'm a business analyst professional with over 5 years of experience in the field
 ### PROJECT 1: RUSSIAN HOUSING PRICE PREDICTION USING LINEAR REGRESSION MODEL
 - Description: •	The requirement of the project is to accurately predict the housing price based on the historical housing sales data which will help to clear the 
   uncertainty related to the housing prices and help generate awareness among customers regarding the true market value of the housing.
-- Repository: [Project 1 Repository] (https://github.com/gouthamprsd/project_portfolio/blob/aea018e397c2ad5f107a9549d0836d892b6f752b/RUSSIAN%20HOUSING%20PRICE%20PREDICTION.ipynb)
+- Repository: [Project 1 Repository](https://github.com/gouthamprsd/project_portfolio/blob/aea018e397c2ad5f107a9549d0836d892b6f752b/RUSSIAN%20HOUSING%20PRICE%20PREDICTION.ipynb)
 - Report:[Project 1 Report]
 - Technologies: Python, Linear Regression, Exploratory Data Analysis, Data Mining, Data Profiling.
 

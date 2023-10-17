@@ -24,7 +24,7 @@ https://github.com/gouthamprsd/project_portfolio/blob/aea018e397c2ad5f107a9549d0
 )
 - Technologies: Python, Artifical Neural Network,Exploratory Data Analysis.
 
-### PROJECT 3: Covid 19 death cases analysis 
+### PROJECT 3: COVID 19 DEATH CASE ANALYSIS  
 - Description:The project is to build a model to provide insights to  concerned authorities regarding the covid related 
   death cases to minimize the consequences of the outbreak and allocate resources optimely.
 - Repository: [Project 3 Repository](https://github.com/gouthamprsd/project_portfolio/blob/aea018e397c2ad5f107a9549d0836d892b6f752b/Covid%20Death_Prediction%20-%20Linear%20Regression.str)

@@ -11,7 +11,7 @@ I'm a business analyst professional with over 5 years of experience in the field
 ### PROJECT 1: RUSSIAN HOUSING PRICE PREDICTION USING LINEAR REGRESSION MODEL
 - Description: •	The requirement of the project is to accurately predict the housing price based on the historical housing sales data which will help to clear the 
   uncertainty related to the housing prices and help generate awareness among customers regarding the true market value of the housing.
-- Repository: [Project 1 Repository](https://github.com/yourusername/project1)
+- Repository: [Project 1 Repository] (https://github.com/gouthamprsd/project_portfolio/blob/aea018e397c2ad5f107a9549d0836d892b6f752b/RUSSIAN%20HOUSING%20PRICE%20PREDICTION.ipynb)
 - Report:[Project 1 Report]
 - Technologies: Python, Linear Regression, Exploratory Data Analysis, Data Mining, Data Profiling.
 
@@ -22,24 +22,25 @@ I'm a business analyst professional with over 5 years of experience in the field
 - Report: [Project 2 Report]
 - Technologies: Python, Artifical Neural Network,Exploratory Data Analysis.
 
-### PROJECT 3: Project Name
-- Description: Another project's short description.
+### PROJECT 3: Covid 19 death cases analysis 
+- Description:Our project is to build a model to provide insights to   minimize the consequences of the future outbreak.
 - Repository: [Project 3 Repository](https://github.com/yourusername/project2)
 - Report: [Project 3 Report]
 - Technologies: List the technologies used in this project.
 
 ## Skills
 
-- Programming Languages: List languages (e.g., JavaScript, Python, etc.).
-- Frameworks: List any relevant frameworks (e.g., React, Angular, etc.).
-- Tools: Mention tools you're proficient in (e.g., Git, VS Code, etc.).
+- Data analytics tools like IBM SPSS Modeler, IBM Cognos Analytics, IBM SPSS statistics
+- Database management tools like Microsoft SQL server
+- Data visualization tools like Power BI
+- Programing language like Python & R.
 
 ## Contact Me
 
 Feel free to contact me if you'd like to collaborate, have questions, or just want to connect:
 
-- Email: your@email.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Email: gouthamprsd@gmail.com
+- LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/goutham-prasad)
 
 
 

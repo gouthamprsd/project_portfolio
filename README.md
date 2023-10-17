@@ -2,26 +2,30 @@
 
 Welcome to my GitHub portfolio! I'm passionate about coding and creating awesome projects. Below, you'll find some of the projects I've been working on. Feel free to explore, collaborate, or get in touch if you have any questions or opportunities for us to work together.
 
-## About Me
+## ABOUT ME
 
 I'm a business analyst professional with over 5 years of experience in the field of business intelligence and analytics. I'm skilled in a range of programming languages, frameworks, and tools, and I love to learn and explore new technologies.
 
-## Projects
+## PROJECTS
 
-### Project 1: Project Name
-- Description: A brief description of what this project is all about.
+### PROJECT 1: RUSSIAN HOUSING PRICE PREDICTION USING LINEAR REGRESSION MODEL
+- Description: •	The requirement of the project is to accurately predict the housing price based on the historical housing sales data which will help to clear the 
+  uncertainty related to the housing prices and help generate awareness among customers regarding the true market value of the housing.
 - Repository: [Project 1 Repository](https://github.com/yourusername/project1)
-- Technologies: List the technologies used in this project.
+- Report: 
+- Technologies: Python, Linear Regression, Exploratory Data Analysis, Data Mining, Data Profiling.
 
 
-### Project 2: Project Name
+### PROJECT 2: LATE DELIVERY RISK PREDICTION MODEL USING NEURAL NETWORK
+- Description: •	The artificial neural network (ANN) model was used to accurately predict the delivery risk based on the order input parameters.
+- Repository: [Project 2 Repository](https://github.com/yourusername/project2)
+- Report: 
+- Technologies: Python, Artifical Neural Network,Exploratory Data Analysis.
+
+### PROJECT 3: Project Name
 - Description: Another project's short description.
 - Repository: [Project 2 Repository](https://github.com/yourusername/project2)
-- Technologies: List the technologies used in this project.
-
-### Project 2: Project Name
-- Description: Another project's short description.
-- Repository: [Project 2 Repository](https://github.com/yourusername/project2)
+- Report: 
 - Technologies: List the technologies used in this project.
 
 ## Skills

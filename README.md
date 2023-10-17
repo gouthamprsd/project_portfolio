@@ -12,20 +12,20 @@ I'm a business analyst professional with over 5 years of experience in the field
 - Description: •	The requirement of the project is to accurately predict the housing price based on the historical housing sales data which will help to clear the 
   uncertainty related to the housing prices and help generate awareness among customers regarding the true market value of the housing.
 - Repository: [Project 1 Repository](https://github.com/yourusername/project1)
-- Report: 
+- Report:[Project 1 Report]
 - Technologies: Python, Linear Regression, Exploratory Data Analysis, Data Mining, Data Profiling.
 
 
 ### PROJECT 2: LATE DELIVERY RISK PREDICTION MODEL USING NEURAL NETWORK
-- Description: •	The artificial neural network (ANN) model was used to accurately predict the delivery risk based on the order input parameters.
+- Description: •	The artificial neural network (ANN) model is used to accurately predict the delivery risk based on the order input parameters.
 - Repository: [Project 2 Repository](https://github.com/yourusername/project2)
-- Report: 
+- Report: [Project 2 Report]
 - Technologies: Python, Artifical Neural Network,Exploratory Data Analysis.
 
 ### PROJECT 3: Project Name
 - Description: Another project's short description.
-- Repository: [Project 2 Repository](https://github.com/yourusername/project2)
-- Report: 
+- Repository: [Project 3 Repository](https://github.com/yourusername/project2)
+- Report: [Project 3 Report]
 - Technologies: List the technologies used in this project.
 
 ## Skills
